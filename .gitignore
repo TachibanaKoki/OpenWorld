@@ -1,0 +1,13 @@
+*.csproj
+*.sln
+.vs/
+Bin/
+Library/
+obj/
+Temp/
+.gradle/
+Logs/
+Build/
+BuildStaff/
+PCBuild.app/
+

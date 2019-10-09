@@ -11,3 +11,6 @@ Build/
 BuildStaff/
 PCBuild.app/
 backup/
+Plugins/UnityPlugins/x64/
+Plugins/UnityPlugins/Debug/
+Plugins/UnityPlugins/Release/
